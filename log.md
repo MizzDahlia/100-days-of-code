@@ -12,3 +12,7 @@ Day 1 : January 5, 2017 (starting over)
 Played around with my div on the project. Trying to center it. It's been a while, so all of this is a bit rough
 
 Link to my "work:>>https://codepen.io/mizzdahlia/pen/ObKPam
+
+Day 2 : January 6, 2017
+
+Finally settled on a subject for my tribute page, added a few lines of text, a picture, and an unordered list. Spent some time refreshing myself of Bootstrap. I need to use that to really bring things together.
