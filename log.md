@@ -5,3 +5,10 @@
 OH my gosh. I thought i was so much better at programming... until I actually sat down to create this "page". Doesn't look like much because I spent most of my time researching.  It'll get better (and easier) as I continue this challenge!
 
 Link to my "work">> https://codepen.io/mizzdahlia/pen/ObKPam
+
+
+Day 1 : January 5, 2017 (starting over)
+
+Played around with my div on the project. Trying to center it. It's been a while, so all of this is a bit rough
+
+Link to my "work:>>https://codepen.io/mizzdahlia/pen/ObKPam
