@@ -25,3 +25,7 @@ Day 3: January 7, 2017
 Added a colored background and a little more text. "Centered" the image, although i'd like the code to be a little less clunky. Couldn't really figure out how to integrate Bootstrap, but I'll keep trying. 
 
 Link to my "work": https://codepen.io/mizzdahlia/pen/ObKPam
+
+Day 4: January 16, 2017
+
+Today I added some colors to the page, and a little more text. I did a little research and got my fonts all the same. Trying to keep my stylesheet organized is a top priority. 
