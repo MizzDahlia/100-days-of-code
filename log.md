@@ -29,3 +29,11 @@ Link to my "work": https://codepen.io/mizzdahlia/pen/ObKPam
 Day 4: January 16, 2017
 
 Today I added some colors to the page, and a little more text. I did a little research and got my fonts all the same. Trying to keep my stylesheet organized is a top priority. 
+
+Link to my work: https://codepen.io/mizzdahlia/pen/ObKPam
+
+Day 5: January 17, 2017
+
+Added a new div and background colors. Added more text. Almost finished with this.
+
+Link to my work: https://codepen.io/mizzdahlia/pen/ObKPam
